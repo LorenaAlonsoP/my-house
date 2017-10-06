@@ -50,7 +50,7 @@ public class Circle
      */
     public void moveSun()
     {
-        slowMoveVertical(130);
+        //slowMoveVertical(130);
     }
     
     /**

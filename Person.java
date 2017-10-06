@@ -38,6 +38,14 @@ public class Person
         draw();
     }
     
+     /**
+     * Make this person moveSun. 
+     */
+    public void moveSun()
+    {
+        slowMoveHorizontal(50);
+    }
+    
     /**
      * Make this person invisible. If it was already invisible, do nothing.
      */
